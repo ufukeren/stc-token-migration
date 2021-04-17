@@ -1,6 +1,6 @@
-name: Deployment
+name: ufuk eren
 on:
-  workflow_run:
+  workflow_run: ufo
     workflows: ["Testing"]
     types: [completed]
 
